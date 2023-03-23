@@ -1,0 +1,72 @@
+
+.App {
+	background-color: aliceblue;
+	display: grid;
+	grid-template-columns: 10% 40% 40% 10%;
+	grid-template-rows: 10% 80% 10%;
+	height: 100%;
+
+}
+  
+.uno {
+	/* border: 3px solid blueviolet; */
+	width: 50%;
+	grid-column: 2/3;
+	grid-row: 2/3;
+	
+	
+}
+  
+.dos {
+	/* border: 3px solid rgb(191, 252, 80); */
+	width: 50%;
+	grid-column: 3/4;
+	grid-row: 2/3;
+	
+}
+
+h1 {
+	text-align: center;
+	border: 5px solid black;
+	background-color: rgb(0, 195, 255);
+	
+}
+
+.listado {
+	text-align: left;
+	padding: 12px;
+	margin-top: 60px;
+}
+
+.contenedor {
+	text-align: left;
+	padding: 15px;
+	font-size: large;
+	margin-top: 60px;
+
+}
+
+label {
+	margin: 5px;
+}
+
+input {
+	margin: 5px;
+}
+
+button {
+	margin-top: 12px;
+	padding: 12px;
+	background-color: rgb(0, 195, 255);
+	border: 2px solid black;
+}
+
+.tres{
+	grid-column: 2/4;
+	grid-row: 1/2;
+}
+
+.cuatro{
+	grid-column: 2/4;
+	grid-row: 3/4;
+}

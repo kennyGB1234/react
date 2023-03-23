@@ -1,0 +1,24 @@
+ul {
+  border: 3px solid rgb(0, 0, 3);
+  background-color: rgb(199, 193, 193);
+  width: 30%;
+}
+
+.contenedor {
+  padding: 15px;
+
+}
+
+h1{
+  text-align: center;
+  border: 3px solid black;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 18px;
+
+}

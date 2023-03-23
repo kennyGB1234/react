@@ -1,0 +1,15 @@
+.usuarios {
+  background-color: lightcyan;
+  
+  border-radius: 1rem;
+  margin-right: 1rem;
+  width: max-content;
+  padding: 10px;
+}
+
+.usuario {
+  background-color: rgb(192, 224, 203);
+  border-radius: 1rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}

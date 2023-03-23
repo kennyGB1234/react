@@ -1,0 +1,64 @@
+
+
+.contenedor {
+  background-color: beige;
+display: flex;
+flex-direction: row-reverse;
+justify-content: space-around;
+
+
+
+}
+
+ul {
+  list-style: none;
+}
+
+.datos {
+border: 5px solid rgb(0, 0, 0);
+margin-top: 20vh;
+padding: 15px;
+font-size: 22px;
+display: flex;
+flex-direction: column;
+
+width: 50vh;
+background-color: whitesmoke;
+
+height: 50%;
+}
+
+.form {
+  border: 5px solid rgb(0, 0, 0);
+  margin-top: 20vh;
+  padding: 15px;
+  font-size: 22px;
+  width: 50vh;
+  background-color: whitesmoke;
+  text-align: left;
+  
+}
+
+h1 {
+  border: 5px solid black;
+  text-align: center;
+}
+button{
+  padding: 20px;
+  margin-top: 10px;
+  background-color: black;
+  color: white;
+  border: 3px solid rgb(131, 130, 130);
+}
+
+.lista ul {
+  text-align: justify;
+  font-weight: bold;
+}
+
+.contenedorDos {
+width: 30 vh;
+height: 100vh;
+display:flex;
+flex-direction: column;
+}

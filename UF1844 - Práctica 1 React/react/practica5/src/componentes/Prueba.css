@@ -1,0 +1,23 @@
+.contenedor {
+    background-color: rgb(171, 225, 241);
+    text-decoration: none;
+    padding: 12px;
+}
+
+form ul li{
+list-style: none;
+font-weight: bolder;
+font-size: large;
+margin-bottom: 12px;
+}
+
+button {
+    margin-left: 40px;
+    padding: 20px;
+    background-color: blue;
+    color: white;
+}
+
+.titulo{
+    color: brown;
+}

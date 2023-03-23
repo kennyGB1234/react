@@ -1,0 +1,105 @@
+
+
+.contenedor {
+  background-color: beige;
+display: flex;
+flex-direction: row-reverse;
+justify-content: space-around;
+
+
+
+
+}
+
+ul {
+  list-style: none;
+}
+
+.datos {
+border: 5px solid rgb(0, 0, 0);
+margin-top: 20vh;
+padding: 15px;
+font-size: 22px;
+display: flex;
+flex-direction: column;
+
+width: 50vh;
+background-color: whitesmoke;
+
+height: 50%;
+}
+
+.form {
+  border: 5px solid rgb(0, 0, 0);
+  margin-top: 20vh;
+  padding: 15px;
+  font-size: 22px;
+  width: 50vh;
+  background-color: whitesmoke;
+  text-align: left;
+  
+}
+
+h1 {
+  border: 5px solid black;
+  text-align: center;
+}
+button{
+  padding: 20px;
+  margin-top: 10px;
+  background-color: black;
+  color: white;
+  border: 3px solid rgb(131, 130, 130);
+}
+
+.lista ul {
+  text-align: justify;
+  font-weight: bold;
+}
+
+.contenedorDos {
+width: 30 vh;
+height: 100vh;
+display:flex;
+flex-direction: column;
+}
+
+
+.barra {
+  display:flex;
+  flex-direction: row;
+  padding: 12px;
+  margin-bottom: 1.5rem;
+}
+
+.barra ul {
+  list-style-type: none;
+  background-color: #dddddd;
+  padding: 0.5rem 0;
+}
+
+.barra li {
+  display: inline;
+  margin-left: 1.5rem;
+  padding: 0.5rem;
+}
+
+.barra li:hover {
+  background-color: blueviolet;
+}
+
+.barra li a {
+  color: cadetblue;
+}
+.barra li a:hover {
+  color: orange;
+}
+
+.qqq{
+  background-image: url('https://img.freepik.com/vector-gratis/formulario-documento-linea-acuerdo-digital-contrato-electronico-cuestionario-internet-hacer-lista-tenga-cuenta-boleta-votacion-elemento-diseno-plano-encuesta_335657-2667.jpg');
+  width: 100vh;
+  height: 100vh;
+
+ background-size: cover;
+ margin: auto;
+}
